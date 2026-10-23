@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104mm" height="55mm" viewBox="0 0 104 55" font-family="'BIZ UDPGothic','Yu Gothic UI','Yu Gothic','Hiragino Sans',sans-serif">
+<rect x="2" y="7" width="46" height="46" rx="1.5" fill="#e9e4da" stroke="#1a1a1a" stroke-width="0.8"/>
+<g stroke="#1a1a1a" stroke-width="0.45" fill="#d8d0c0" stroke-linejoin="round">
+<path d="M5.7 21.7 L45.7 12.5" stroke-width="1.6" stroke="#8b7f6a"/>
+<path d="M27.3 19.9 L33.3 50.7" stroke-width="1.6" stroke="#8b7f6a"/>
+<path d="M20.4 20.8 L30.5 17.1" stroke-width="1.6" stroke="#8b7f6a"/>
+<path transform="translate(11.7 14.4) rotate(25)" d="M-5.1 0 Q0 -4.4 5.1 0 Q0 4.4 -5.1 0 Z M-5.1 0 L5.1 0"/>
+<path transform="translate(29.6 14.8) rotate(-15)" d="M-6.0 0 Q0 -5.2 6.0 0 Q0 5.2 -6.0 0 Z M-6.0 0 L6.0 0"/>
+<path transform="translate(6.1 21.7) rotate(70)" d="M-4.6 0 Q0 -3.3 4.6 0 Q0 3.3 -4.6 0 Z M-4.6 0 L4.6 0"/>
+<path transform="translate(29.6 27.7) rotate(5)" d="M-5.5 0 Q0 -4.4 5.5 0 Q0 4.4 -5.5 0 Z M-5.5 0 L5.5 0"/>
+<path transform="translate(38.3 39.7) rotate(15)" d="M-5.5 0 Q0 -5.2 5.5 0 Q0 5.2 -5.5 0 Z M-5.5 0 L5.5 0"/>
+<path transform="translate(8.9 39.2) rotate(105)" d="M-5.1 0 Q0 -4.0 5.1 0 Q0 4.0 -5.1 0 Z M-5.1 0 L5.1 0"/>
+<path transform="translate(16.7 43.8) rotate(80)" d="M-4.6 0 Q0 -3.7 4.6 0 Q0 3.7 -4.6 0 Z M-4.6 0 L4.6 0"/>
+<circle cx="15.8" cy="25.2" r="3.9" fill="#e3dbcb"/>
+<circle cx="19.9" cy="28.2" r="3.9" fill="#e3dbcb"/>
+<circle cx="18.3" cy="33.0" r="3.9" fill="#e3dbcb"/>
+<circle cx="13.3" cy="33.0" r="3.9" fill="#e3dbcb"/>
+<circle cx="11.7" cy="28.2" r="3.9" fill="#e3dbcb"/>
+<circle cx="15.8" cy="29.5" r="1.7" fill="#b9ad96"/>
+<path d="M30.5 32.3 L32.4 51.6" stroke-width="1.1" stroke="#8b7f6a"/>
+<ellipse cx="20.4" cy="37.4" rx="1.8" ry="2.3" fill="#d0c6b2"/>
+</g>
+<circle cx="4.3" cy="9.3" r="1.1" fill="#f6f3ec" stroke="#1a1a1a" stroke-width="0.4"/>
+<circle cx="45.7" cy="9.3" r="1.1" fill="#f6f3ec" stroke="#1a1a1a" stroke-width="0.4"/>
+<circle cx="4.3" cy="50.7" r="1.1" fill="#f6f3ec" stroke="#1a1a1a" stroke-width="0.4"/>
+<circle cx="45.7" cy="50.7" r="1.1" fill="#f6f3ec" stroke="#1a1a1a" stroke-width="0.4"/>
+<rect x="21.8" y="32.3" width="13.3" height="12.0" rx="2" fill="none" stroke="#e05a2b" stroke-width="0.9" stroke-dasharray="1.6 1"/>
+<path d="M15.8 7.0 V53.0" stroke="#1b2a4a" stroke-width="0.7" stroke-dasharray="2 1.2"/>
+<path d="M2.0 29.5 H48.0" stroke="#1b2a4a" stroke-width="0.7" stroke-dasharray="2 1.2"/>
+<rect x="3.2" y="8.2" width="11.6" height="6.4" rx="1.2" fill="#fff" stroke="#1a1a1a" stroke-width="0.4"/>
+<text x="9.0" y="13.1" font-size="4.6" font-weight="bold" text-anchor="middle" fill="#1a1a1a">つば</text>
+<rect x="17.0" y="8.2" width="11.6" height="6.4" rx="1.2" fill="#fff" stroke="#1a1a1a" stroke-width="0.4"/>
+<text x="22.8" y="13.1" font-size="4.6" font-weight="bold" text-anchor="middle" fill="#1a1a1a">くわ</text>
+<rect x="3.2" y="30.7" width="11.6" height="6.4" rx="1.2" fill="#fff" stroke="#1a1a1a" stroke-width="0.4"/>
+<text x="9.0" y="35.6" font-size="4.6" font-weight="bold" text-anchor="middle" fill="#1a1a1a">はな</text>
+<rect x="17.0" y="30.7" width="11.6" height="6.4" rx="1.2" fill="#fff" stroke="#1a1a1a" stroke-width="0.4"/>
+<text x="22.8" y="35.6" font-size="4.6" font-weight="bold" text-anchor="middle" fill="#1a1a1a">かぶ</text>
+<text x="25.0" y="5.4" font-size="4.4" font-weight="bold" text-anchor="middle" fill="#1a1a1a">①</text>
+<rect x="56" y="7" width="46" height="46" rx="1.5" fill="#e9e4da" stroke="#1a1a1a" stroke-width="0.8"/>
+<g stroke="#1a1a1a" stroke-width="0.45" fill="#d8d0c0" stroke-linejoin="round">
+<path d="M58.8 32.3 L85.9 11.6" stroke-width="1.6" stroke="#8b7f6a"/>
+<path d="M78.5 12.5 L77.2 28.2" stroke-width="1.6" stroke="#8b7f6a"/>
+<path d="M69.8 25.4 L76.7 34.6" stroke-width="1.6" stroke="#8b7f6a"/>
+<path transform="translate(65.2 14.8) rotate(30)" d="M-6.9 0 Q0 -7.4 6.9 0 Q0 7.4 -6.9 0 Z M-6.9 0 L6.9 0"/>
+<path transform="translate(92.3 12.5) rotate(10)" d="M-6.0 0 Q0 -4.4 6.0 0 Q0 4.4 -6.0 0 Z M-6.0 0 L6.0 0"/>
+<path transform="translate(61.5 24.5) rotate(-15)" d="M-5.5 0 Q0 -3.3 5.5 0 Q0 3.3 -5.5 0 Z M-5.5 0 L5.5 0"/>
+<path transform="translate(62.0 33.7) rotate(40)" d="M-4.1 0 Q0 -3.7 4.1 0 Q0 3.7 -4.1 0 Z M-4.1 0 L4.1 0"/>
+<path transform="translate(73.9 37.4) rotate(75)" d="M-5.5 0 Q0 -5.9 5.5 0 Q0 5.9 -5.5 0 Z M-5.5 0 L5.5 0"/>
+<path transform="translate(84.5 29.1) rotate(60)" d="M-5.5 0 Q0 -4.4 5.5 0 Q0 4.4 -5.5 0 Z M-5.5 0 L5.5 0"/>
+<path transform="translate(94.2 26.3) rotate(-10)" d="M-5.1 0 Q0 -4.4 5.1 0 Q0 4.4 -5.1 0 Z M-5.1 0 L5.1 0"/>
+<path transform="translate(93.7 35.5) rotate(10)" d="M-5.1 0 Q0 -4.4 5.1 0 Q0 4.4 -5.1 0 Z M-5.1 0 L5.1 0"/>
+<path transform="translate(86.4 42.0) rotate(-30)" d="M-5.1 0 Q0 -4.4 5.1 0 Q0 4.4 -5.1 0 Z M-5.1 0 L5.1 0"/>
+<path transform="translate(94.6 45.6) rotate(80)" d="M-4.6 0 Q0 -4.4 4.6 0 Q0 4.4 -4.6 0 Z M-4.6 0 L4.6 0"/>
+<path d="M56.5 35.7 Q62.0 44.5 67.5 35.7 Q62.0 38.5 56.5 35.7 Z"/>
+</g>
+<circle cx="58.3" cy="9.3" r="1.1" fill="#f6f3ec" stroke="#1a1a1a" stroke-width="0.4"/>
+<circle cx="99.7" cy="9.3" r="1.1" fill="#f6f3ec" stroke="#1a1a1a" stroke-width="0.4"/>
+<circle cx="58.3" cy="50.7" r="1.1" fill="#f6f3ec" stroke="#1a1a1a" stroke-width="0.4"/>
+<circle cx="99.7" cy="50.7" r="1.1" fill="#f6f3ec" stroke="#1a1a1a" stroke-width="0.4"/>
+<rect x="58.8" y="8.4" width="23.9" height="19.8" rx="2" fill="none" stroke="#e05a2b" stroke-width="0.9" stroke-dasharray="1.6 1"/>
+<path d="M85.4 7.0 V53.0" stroke="#1b2a4a" stroke-width="0.7" stroke-dasharray="2 1.2"/>
+<path d="M56.0 33.7 H102.0" stroke="#1b2a4a" stroke-width="0.7" stroke-dasharray="2 1.2"/>
+<rect x="57.2" y="8.2" width="7.0" height="6.4" rx="1.2" fill="#fff" stroke="#1a1a1a" stroke-width="0.4"/>
+<text x="60.7" y="13.1" font-size="4.6" font-weight="bold" text-anchor="middle" fill="#1a1a1a">と</text>
+<rect x="86.6" y="8.2" width="7.0" height="6.4" rx="1.2" fill="#fff" stroke="#1a1a1a" stroke-width="0.4"/>
+<text x="90.1" y="13.1" font-size="4.6" font-weight="bold" text-anchor="middle" fill="#1a1a1a">き</text>
+<rect x="57.2" y="34.9" width="7.0" height="6.4" rx="1.2" fill="#fff" stroke="#1a1a1a" stroke-width="0.4"/>
+<text x="60.7" y="39.8" font-size="4.6" font-weight="bold" text-anchor="middle" fill="#1a1a1a">が</text>
+<rect x="86.6" y="34.9" width="7.0" height="6.4" rx="1.2" fill="#fff" stroke="#1a1a1a" stroke-width="0.4"/>
+<text x="90.1" y="39.8" font-size="4.6" font-weight="bold" text-anchor="middle" fill="#1a1a1a">ね</text>
+<text x="79.0" y="5.4" font-size="4.4" font-weight="bold" text-anchor="middle" fill="#1a1a1a">②</text>
+</svg>

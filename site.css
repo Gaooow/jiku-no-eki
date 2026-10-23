@@ -57,6 +57,7 @@ noscript p{background:#fff;border:2px solid var(--time);padding:12px;border-radi
 .pg{font-size:.85rem;color:#3b4250;margin:.4em 0 0}
 .map{margin:12px 0}.map img{width:100%;height:auto;border:2px solid var(--night);border-radius:10px;background:#fff}
 .map figcaption{font-size:.85rem;color:#3b4250}
+.ansfig{margin:.6rem 0}.ansfig img{max-width:100%;height:auto;max-height:22rem}
 .grp{background:#fff;border:2px solid var(--night);border-radius:12px;margin:12px 0;padding:0 14px}
 .grp summary{font-weight:700;padding:14px 0;cursor:pointer;min-height:56px}
 .fact{background:var(--fact);border:2px dashed var(--fact-line);border-left:8px solid var(--fact-line);box-shadow:none}
